@@ -8,6 +8,7 @@
 # 运行效果
 ![image] (https://github.com/Changanyue/medical-chatbot/blob/master/效果展示.gif)
 
+
 国内bilibili：https://www.bilibili.com/video/BV1Re411W7LX/
 
 国外YouTube：https://www.youtube.com/watch?v=Vjo8qHwGIAg&feature=youtu.be
