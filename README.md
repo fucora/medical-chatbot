@@ -6,7 +6,7 @@
 本项目是在前端界面显示，基于医疗知识图谱+bert文本相似度+seq2seq attention的中文聊天机器人
 
 # 运行效果
-见效果展示.gif
+![] https://github.com/Changanyue/medical-chatbot/blob/master/%E6%95%88%E6%9E%9C%E5%B1%95%E7%A4%BA.gif
 
 或视频：
 国内bilibili：https://www.bilibili.com/video/BV1Re411W7LX/
